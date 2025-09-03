@@ -1,0 +1,128 @@
+{
+  "metadata_ata": {
+    "ata_id": "a8cf3db945e11201b060a97fbb176ee16205ee5fd5976b8a63e5dfd5db9fa98b",
+    "titulo_sessao": "ATA DA 132 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 29 DE ABRIL DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-04-29",
+    "numero_sessao": 132,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Aprovação da ata da Reunião Ordinária realizada em 24 de abril de 2025",
+      "resumo": "Aprovação da ata da reunião anterior.",
+      "resultado": "Aprovada nos termos do artigo 123 do Regimento Interno",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 31/2025 (Institui a Gratificação por Evento de Entrevista Domiciliar)",
+      "resumo": "Aprovação do projeto de lei que institui gratificação por entrevista domiciliar.",
+      "resultado": "Aprovado por unanimidade em três comissões (Constituição, Justiça e Redação; Organização, Bens, Serviços, Saúde, Educação, Cultura, Servidores, Meio Ambiente e Administração; e Finanças, Orçamento e Planejamento). O projeto será apreciado e votado em Comissão Mista.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 32/2025 (Autoriza abertura de Créditos Especiais para a Secretaria Municipal de Educação)",
+      "resumo": "Aprovação do projeto de lei que autoriza créditos especiais para a Secretaria Municipal de Educação.",
+      "resultado": "Aprovado por unanimidade em duas comissões (Constituição, Justiça e Redação; e Finanças, Orçamento e Planejamento). O projeto será apreciado e votado em Comissão Mista.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer da Comissão de Constituição, Justiça e Redação sobre a Emenda nº 02 ao PLC nº 15/2025",
+      "resumo": "Parecer contrário da comissão sobre emenda ao projeto de lei complementar.",
+      "resultado": "Contrário",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer da Comissão de Constituição, Justiça e Redação sobre o PL 16/2025 e emenda de Michel Oliveira Rodrigues",
+      "resumo": "Parecer favorável da comissão sobre projeto de lei e emenda.",
+      "resultado": "Favorável",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer da Comissão de Constituição, Justiça e Redação sobre o PL 20/2025 e emenda de Henrique Balseiros Chamosa Neto",
+      "resumo": "Parecer favorável da comissão sobre projeto de lei e emenda.",
+      "resultado": "Favorável",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer da Comissão de Constituição, Justiça e Redação sobre o Projeto de Decreto Legislativo nº 03/2025",
+      "resumo": "Parecer favorável da comissão sobre projeto de decreto legislativo.",
+      "resultado": "Favorável",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer da Comissão de Constituição, Justiça e Redação sobre a Moção de Pesar nº 07/2025",
+      "resumo": "Parecer favorável da comissão sobre moção de pesar.",
+      "resultado": "Favorável",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Aprovação da Moção de Pesar nº 07/2025",
+      "resumo": "Aprovação da moção de pesar por falecimento do Sr. Natale Dalla Vecchia.",
+      "resultado": "Aprovada por unanimidade",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Redação Final do Projeto de Lei nº 08/2025",
+      "resumo": "Aprovação da redação final do projeto de lei que dispõe sobre a substituição dos sinais sonoros em estabelecimentos de ensino.",
+      "resultado": "Aprovada por unanimidade",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Votação do Artigo 2º do Projeto de Emenda à Lei Orgânica nº 01/2025",
+      "resumo": "Votação do artigo que altera a Lei Orgânica do Município.",
+      "resultado": "Aprovado em 2º turno por maioria de votos",
+      "votos": [
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidorio Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 10/2025",
+      "resumo": "Aprovação do projeto de lei que altera a lei sobre limpeza e manutenção de terrenos e proibição de queimadas.",
+      "resultado": "Aprovado por unanimidade",
+      "votos": []
+    }
+  ]
+}

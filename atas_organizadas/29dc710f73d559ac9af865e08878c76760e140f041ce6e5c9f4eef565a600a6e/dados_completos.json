@@ -1,0 +1,23 @@
+{
+  "metadata_ata": {
+    "ata_id": "29dc710f73d559ac9af865e08878c76760e140f041ce6e5c9f4eef565a600a6e",
+    "titulo_sessao": "ATA DA 24º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19º LEGISLATURA, REALIZADA EM 15 DE JULHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-07-15",
+    "numero_sessao": 24,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Aprovação da ata da Reunião Ordinária realizada no dia 08 de julho de 2025",
+      "resumo": "Aprovação da ata da reunião anterior.",
+      "resultado": "Aprovada nos termos do artigo 123 do Regimento Interno",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 46/2025 — Vereador Michel Oliveira Rodrigues da Silva",
+      "resumo": "Reconhecimento da Cultura do Flashback como manifestação cultural de interesse público em Salto, instituindo a “Semana da Cultura Flashback”.",
+      "resultado": "Aprovado por unanimidade de votos na Comissão Mista",
+      "votos": []
+    }
+  ]
+}

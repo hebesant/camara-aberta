@@ -1,0 +1,132 @@
+{
+  "metadata_ata": {
+    "ata_id": "ba1e47a10316c029c50d993724723cfd8fc61206a260ff45168debd8677061f6",
+    "titulo_sessao": "ATA DA 292 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 19 DE AGOSTO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-08-19",
+    "numero_sessao": 292,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Apreciação do Projeto de Lei nº 73/2025 por Comissão Mista",
+      "resumo": "Votação sobre o pedido de apreciação do Projeto de Lei nº 73/2025 (revogação do artigo da Lei Municipal nº 4186, referente à doação de área para o Corpo de Bombeiros) por Comissão Mista.",
+      "resultado": "Aprovado na Comissão de Constituição, Justiça e Redação por maioria, com voto contrário de Michel Oliveira Rodrigues da Silva; aprovado por unanimidade na Comissão de Organização, Bens, Serviços, Saúde, Educação, Cultura, Servidores, Meio Ambiente e Administração. O projeto tramitará em regime de urgência.",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 42/2025 - Ampliação do direito à ausência justificada",
+      "resumo": "Votação do Projeto de Lei nº 42/2025, que trata da ampliação do direito à ausência justificada para acompanhamento de filhos em consultas médicas e atividades escolares.",
+      "resultado": "Rejeitado por maioria de votos.",
+      "votos": [
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Não"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Resolução nº 03/2025 - Vedação à violência política de gênero",
+      "resumo": "Votação do Projeto de Resolução nº 03/2025 que visa incluir no Código de Ética Parlamentar a vedação à violência política de gênero.",
+      "resultado": "Rejeitado por maioria de votos.",
+      "votos": [
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Não"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Dispensa de leitura do requerimento nº 497/2025",
+      "resumo": "Votação sobre o pedido de dispensa da leitura do requerimento nº 497/2025 (solicitação de esclarecimentos sobre o atendimento a pessoas com TEA).",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Requerimento nº 497/2025 - Atendimento a pessoas com TEA",
+      "resumo": "Votação do requerimento nº 497/2025, solicitando esclarecimentos sobre o atendimento à população com Transtorno do Espectro Autista (TEA).",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": []
+    }
+  ]
+}

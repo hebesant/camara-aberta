@@ -1,0 +1,301 @@
+{
+  "metadata_ata": {
+    "ata_id": "f3f181dc135a69e60e9ce59096fec3985025c74581e10b6f958430eef343db0e",
+    "titulo_sessao": "ATA DA 14º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19º LEGISLATURA, REALIZADA EM 06 DE MAIO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-05-06",
+    "numero_sessao": 14,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Requerimento de urgência para o Projeto de Lei nº 33/2025",
+      "resumo": "Votação para acelerar a tramitação do Projeto de Lei 33/2025.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Requerimento para apreciação do Projeto de Lei nº 33/2025 por Comissão Mista",
+      "resumo": "Votação para que o Projeto de Lei 33/2025 seja analisado por uma comissão composta por representantes de diferentes áreas.",
+      "resultado": "Aprovado por unanimidade de votos em duas comissões",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação da Emenda Supressiva nº 01 ao Projeto de Lei Complementar nº 15/2025",
+      "resumo": "Votação para aprovar uma emenda que remove partes do artigo 4º do Projeto de Lei Complementar 15/2025.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei Complementar nº 15/2025 com emenda",
+      "resumo": "Votação para aprovar o Projeto de Lei Complementar 15/2025, que atualiza a relação de empreendimentos passíveis de licenciamento ambiental.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido para encaminhamento do Projeto de Lei Complementar nº 15/2025 para expedição do autógrafo, dispensando a redação final",
+      "resumo": "Votação para acelerar o processo de aprovação do Projeto de Lei Complementar 15/2025, dispensando uma etapa burocrática.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 12/2025",
+      "resumo": "Votação para aprovar o Projeto de Lei 12/2025, que trata do Programa de Cooperação “Sinal Vermelho Contra a Violência Doméstica”.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

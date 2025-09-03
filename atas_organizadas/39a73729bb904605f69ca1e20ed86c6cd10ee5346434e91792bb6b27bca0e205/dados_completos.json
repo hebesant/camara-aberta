@@ -1,0 +1,148 @@
+{
+  "metadata_ata": {
+    "ata_id": "39a73729bb904605f69ca1e20ed86c6cd10ee5346434e91792bb6b27bca0e205",
+    "titulo_sessao": "ATA DA 192 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 10 DE JUNHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-06-10",
+    "numero_sessao": 192,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Pedido para tramitação em Comissão Mista do Projeto de Lei nº 45/2025",
+      "resumo": "Votação sobre a solicitação para que o Projeto de Lei nº 45/2025 (crédito especial para a Secretaria de Administração) seja analisado por uma Comissão Mista.",
+      "resultado": "Aprovado por unanimidade nas Comissões de Constituição, Justiça e Redação e de Finanças, Orçamento e Planejamento.",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de regime de urgência para o Projeto de Lei nº 47/2025",
+      "resumo": "Votação para determinar se o Projeto de Lei nº 47/2025 (alteração no Estatuto Municipal da Pessoa com Deficiência) terá tramitação em regime de urgência.",
+      "resultado": "Aprovado por unanimidade.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 29/2025",
+      "resumo": "Votação sobre o Projeto de Lei nº 29/2025 (reserva de vagas para pessoas negras em órgãos públicos).",
+      "resultado": "Aprovado por maioria de votos, com votos contrários de Antônio Moreira Sobrinho, Arildo Guadagnini e Rogério dos Santos Filho.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Não"
+        }
+      ]
+    }
+  ]
+}

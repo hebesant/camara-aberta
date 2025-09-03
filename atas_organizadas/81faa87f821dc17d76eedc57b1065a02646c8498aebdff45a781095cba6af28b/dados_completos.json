@@ -1,0 +1,292 @@
+{
+  "metadata_ata": {
+    "ata_id": "81faa87f821dc17d76eedc57b1065a02646c8498aebdff45a781095cba6af28b",
+    "titulo_sessao": "ATA DA 18º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 03 DE JUNHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-06-03",
+    "numero_sessao": 18,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Pedido de regime de urgência para o Projeto de Lei nº 44/2025",
+      "resumo": "Aprovação do pedido para que o Projeto de Lei nº 44/2025, que trata da regulamentação do uso de equipamentos sonoros em edículas e espaços similares para eventos, tramite em regime de urgência.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de regime de urgência para o Projeto de Decreto Legislativo nº 06/2025",
+      "resumo": "Aprovação do pedido para que o Projeto de Decreto Legislativo nº 06/2025, que institui o Prêmio Câmara de Mérito Cultural Saltense, tramite em regime de urgência.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de tramitação em Comissão Mista para o Projeto de Decreto Legislativo nº 06/2025 (Comissão de Constituição, Justiça e Redação)",
+      "resumo": "Aprovação do pedido para que o Projeto de Decreto Legislativo nº 06/2025 seja apreciado pela Comissão de Constituição, Justiça e Redação.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Ausente"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de tramitação em Comissão Mista para o Projeto de Decreto Legislativo nº 06/2025 (Comissão de Organização, Bens, Serviços, Saúde, Educação, Cultura, Servidores, Meio Ambiente e Administração)",
+      "resumo": "Aprovação do pedido para que o Projeto de Decreto Legislativo nº 06/2025 seja apreciado pela Comissão de Organização, Bens, Serviços, Saúde, Educação, Cultura, Servidores, Meio Ambiente e Administração.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Ausente"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Dispensa da leitura do veto ao Autógrafo nº 08/2025 do Projeto de Lei nº 03/2025",
+      "resumo": "Aprovação do pedido para dispensar a leitura do veto ao projeto de lei que institui o projeto “Nossa Cidade Mais Limpa”.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Veto ao Autógrafo nº 08/2025 do Projeto de Lei nº 03/2025",
+      "resumo": "Votação sobre o veto ao projeto de lei que institui o projeto “Nossa Cidade Mais Limpa”.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Decreto Legislativo nº 03/2025",
+      "resumo": "Votação do projeto que concede a Medalha Moutonnée de Honra ao Mérito à Banda de Clarins Nossa Senhora Aparecida de Salto.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

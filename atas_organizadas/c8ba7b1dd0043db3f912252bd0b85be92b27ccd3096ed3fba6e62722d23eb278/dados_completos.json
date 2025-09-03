@@ -1,0 +1,113 @@
+{
+  "metadata_ata": {
+    "ata_id": "c8ba7b1dd0043db3f912252bd0b85be92b27ccd3096ed3fba6e62722d23eb278",
+    "titulo_sessao": "ATA DA 22º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19º LEGISLATURA, REALIZADA EM 01 DE JULHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-07-01",
+    "numero_sessao": 22,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Retirada do Projeto de Lei nº 44/2025",
+      "resumo": "Votação para retirada do Projeto de Lei 44/2025, que trata da regulamentação do uso de equipamentos sonoros em edículas e espaços similares para eventos.",
+      "resultado": "Aprovado por unanimidade de votos. Projeto arquivado.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Requerimento nº 370/2025",
+      "resumo": "Requerimento solicitando o comparecimento da Secretária de Finanças para prestar esclarecimentos sobre emendas impositivas e a implementação da Lei nº 4.124/2024.",
+      "resultado": "Aprovado por unanimidade de votos. Encaminhado ao destinatário.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

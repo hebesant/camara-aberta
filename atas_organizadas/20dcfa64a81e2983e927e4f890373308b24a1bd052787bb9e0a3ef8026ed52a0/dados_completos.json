@@ -1,0 +1,41 @@
+{
+  "metadata_ata": {
+    "ata_id": "20dcfa64a81e2983e927e4f890373308b24a1bd052787bb9e0a3ef8026ed52a0",
+    "titulo_sessao": "ATA DA 21º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19º LEGISLATURA, REALIZADA EM 24 DE JUNHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-06-24",
+    "numero_sessao": 21,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Aprovação da ata da Reunião Ordinária realizada em 17 de junho de 2025",
+      "resumo": "Aprovação da ata da reunião anterior.",
+      "resultado": "Aprovada nos termos do artigo 123 do Regimento Interno",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Moção nº 09/2025 - Moção de Congratulações ao Adeildo Ferreira de Azevedo",
+      "resumo": "Moção de congratulações a Adeildo Ferreira de Azevedo pelos serviços prestados à cidade.",
+      "resultado": "Aprovada por unanimidade de votos na Comissão de Constituição, Justiça e Redação",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer do Projeto de Lei 44/2025",
+      "resumo": "Parecer sobre o Projeto de Lei 44/2025.",
+      "resultado": "Favorável",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer do Projeto de Lei 47/2025",
+      "resumo": "Parecer sobre o Projeto de Lei 47/2025.",
+      "resultado": "Favorável",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Parecer da Moção 09/2025",
+      "resumo": "Parecer sobre a Moção 09/2025.",
+      "resultado": "Favorável",
+      "votos": []
+    }
+  ]
+}

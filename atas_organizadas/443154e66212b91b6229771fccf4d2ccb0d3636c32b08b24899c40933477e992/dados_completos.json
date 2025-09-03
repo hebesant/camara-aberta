@@ -1,0 +1,174 @@
+{
+  "metadata_ata": {
+    "ata_id": "443154e66212b91b6229771fccf4d2ccb0d3636c32b08b24899c40933477e992",
+    "titulo_sessao": "ATA DA 26º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 29 DE JULHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-07-29",
+    "numero_sessao": 26,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Aprovação do Ofício 356/2025 - ATL - Requere apreciação do Projeto de Lei nº 57/2025 por Comissão Mista.",
+      "resumo": "Votação sobre a requisição de apreciação do Projeto de Lei nº 57/2025 (Crédito Adicional Especial para a Secretaria Municipal de Educação) por Comissão Mista, conforme artigo 30, Il, do Regimento Interno.",
+      "resultado": "Aprovado por unanimidade de votos em ambas as comissões (Constituição, Justiça e Redação; e Finanças, Orçamento e Planejamento).",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Emenda nº 01 do Projeto de Lei nº 48/2025 (instituição do feriado municipal em 16 de junho).",
+      "resumo": "Votação da emenda nº 01 do Projeto de Lei nº 48/2025 que trata da alteração de feriados municipais.",
+      "resultado": "Rejeitada por maioria de votos na Comissão Mista.",
+      "votos": [
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Contrário"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 48/2025 (instituição do feriado municipal em 16 de junho).",
+      "resumo": "Votação do Projeto de Lei nº 48/2025 que trata da alteração de feriados municipais.",
+      "resultado": "Aprovado por maioria de votos na Comissão Mista.",
+      "votos": [
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Contrário"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de dispensa da leitura do Projeto de Lei Complementar nº 50/2025 (Contribuição de Custeio de Iluminação Pública).",
+      "resumo": "Votação sobre o pedido de dispensa de leitura do Projeto de Lei Complementar nº 50/2025.",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei Complementar nº 50/2025 (Contribuição de Custeio de Iluminação Pública).",
+      "resumo": "Votação do Projeto de Lei Complementar nº 50/2025 que trata da instituição da Contribuição de Custeio de Iluminação Pública.",
+      "resultado": "Rejeitado por maioria de votos.",
+      "votos": [
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Contrário"
+        }
+      ]
+    }
+  ]
+}

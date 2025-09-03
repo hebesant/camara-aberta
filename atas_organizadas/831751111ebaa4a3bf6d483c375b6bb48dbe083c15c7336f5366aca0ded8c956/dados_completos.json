@@ -1,0 +1,112 @@
+{
+  "metadata_ata": {
+    "ata_id": "831751111ebaa4a3bf6d483c375b6bb48dbe083c15c7336f5366aca0ded8c956",
+    "titulo_sessao": "ATA DA 28º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 12 DE AGOSTO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-08-12",
+    "numero_sessao": 28,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Aprovação do requerimento para que o Projeto de Lei nº 69/2025 seja apreciado por Comissão Mista.",
+      "resumo": "Requerimento para análise do Projeto de Lei 69/2025 (Crédito Adicional Especial para a Secretaria Municipal de Educação) por Comissão Mista, devido ao regime de urgência. ",
+      "resultado": "Aprovado por unanimidade de votos em ambas as comissões (Constituição, Justiça e Redação; e Finanças, Orçamento e Planejamento).",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do requerimento para que o Projeto de Lei nº 70/2025 seja apreciado por Comissão Mista.",
+      "resumo": "Requerimento para análise do Projeto de Lei 70/2025 (Crédito Especial para a Secretaria Municipal de Educação - recursos da União) por Comissão Mista, devido ao regime de urgência.",
+      "resultado": "Aprovado por unanimidade de votos em ambas as comissões (Constituição, Justiça e Redação; e Finanças, Orçamento e Planejamento).",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 37/2025 (Alteração da Lei Municipal nº 3.694, sobre a Zona Especial de Desenvolvimento Turístico).",
+      "resumo": "Alteração da Lei Municipal 3.694/2017, que trata do perímetro e parâmetros da Zona Especial de Desenvolvimento Turístico.",
+      "resultado": "Aprovado por maioria de votos, com um voto contrário.",
+      "votos": [
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Não"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Decreto Legislativo nº 07/2025 (Concessão da Medalha Moutonnée de Honra ao Mérito ao Senhor Antônio Marcos da Silva).",
+      "resumo": "Conceder a Medalha Moutonnée de Honra ao Mérito a Antônio Marcos da Silva (Marcos Tatu) pelo projeto 'Tampinha Legal'.",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Requerimento nº 479/2025 (Solicitação de esclarecimentos sobre fiações inutilizadas em postes).",
+      "resumo": "Requerimento para que secretários municipais prestem esclarecimentos sobre a responsabilidade e ações da CPFL e das secretarias em relação às fiações inutilizadas em postes.",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": []
+    }
+  ]
+}

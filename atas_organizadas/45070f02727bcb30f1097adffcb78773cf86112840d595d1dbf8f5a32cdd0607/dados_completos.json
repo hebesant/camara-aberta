@@ -1,0 +1,74 @@
+{
+  "metadata_ata": {
+    "ata_id": "45070f02727bcb30f1097adffcb78773cf86112840d595d1dbf8f5a32cdd0607",
+    "titulo_sessao": "ATA DA 202ª REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192ª LEGISLATURA, REALIZADA EM 17 DE JUNHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-06-17",
+    "numero_sessao": 202,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Veto Parcial ao Autógrafo nº 19/2025 do Projeto de Lei nº 23/2025",
+      "resumo": "Votação sobre o veto parcial ao projeto de lei que altera o traçado da Rua Ribeirão Preto e a denominação de um trecho.",
+      "resultado": "Aprovado por maioria de votos, com voto contrário dos vereadores Michel Oliveira Rodrigues da Silva e Graziela Costa Leite.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Decreto Legislativo nº 06/2025 e Emenda Modificativa nº 01",
+      "resumo": "Aprovação do Projeto de Decreto Legislativo que institui o Prêmio Câmara de Mérito Cultural Saltense.",
+      "resultado": "Aprovado por unanimidade de votos na Comissão Mista.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Projeto de Resolução nº 02/2025",
+      "resumo": "Aprovação do Projeto de Resolução que dispõe sobre o Programa de Avaliação de Desempenho.",
+      "resultado": "Aprovado por maioria de votos, com voto contrário da vereadora Graziela Costa Leite na Comissão Mista.",
+      "votos": []
+    }
+  ]
+}

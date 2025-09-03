@@ -1,0 +1,62 @@
+{
+  "metadata_ata": {
+    "ata_id": "55cc9f0dfd0852c3d378229d8c6c0aa07335697d910202e23777011d3b2b1dbd",
+    "titulo_sessao": "ATA DA 32 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 18 DE FEVEREIRO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-02-18",
+    "numero_sessao": 32,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Requerimento nº 49/2025 - Comparecimento de secretários e representantes da empresa Soul para esclarecimentos sobre a concessão do transporte coletivo.",
+      "resumo": "Votação sobre o requerimento para o comparecimento de secretários e representantes da empresa Soul a fim de prestarem esclarecimentos sobre a concessão do transporte coletivo.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Gudagnani",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidorio Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

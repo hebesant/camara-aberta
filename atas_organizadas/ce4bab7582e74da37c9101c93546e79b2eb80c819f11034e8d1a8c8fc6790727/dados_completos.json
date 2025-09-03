@@ -1,0 +1,148 @@
+{
+  "metadata_ata": {
+    "ata_id": "ce4bab7582e74da37c9101c93546e79b2eb80c819f11034e8d1a8c8fc6790727",
+    "titulo_sessao": "ATA DA 7º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 18 DE MARÇO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-03-18",
+    "numero_sessao": 7,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Pedido de urgência para o PL nº 19/2025",
+      "resumo": "Votação sobre a aprovação de urgência para o Projeto de Lei nº 19/2025 (revisão geral anual dos vencimentos dos empregados públicos da Câmara).",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de Comissão Mista para o PL nº 19/2025",
+      "resumo": "Votação sobre a formação de uma comissão mista para análise do Projeto de Lei nº 19/2025.",
+      "resultado": "Aprovado por unanimidade de votos em cada comissão.",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Projeto de Decreto Legislativo nº 01/2025 (Aprovação das Contas da Prefeitura de 2022)",
+      "resumo": "Votação sobre a aprovação das contas da prefeitura do exercício de 2022.",
+      "resultado": "Aprovado por maioria de votos.",
+      "votos": [
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

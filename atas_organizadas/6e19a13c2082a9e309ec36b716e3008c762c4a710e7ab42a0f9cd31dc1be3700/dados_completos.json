@@ -1,0 +1,23 @@
+{
+  "metadata_ata": {
+    "ata_id": "6e19a13c2082a9e309ec36b716e3008c762c4a710e7ab42a0f9cd31dc1be3700",
+    "titulo_sessao": "ATA DA 2º REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 11 DE FEVEREIRO DE 2.025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-02-11",
+    "numero_sessao": 2,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Aprovação do requerimento para apreciação do PL nº 05/2025 por Comissão Mista",
+      "resumo": "Requerimento para que o Projeto de Lei nº 05/2025 (abertura de crédito especial para a Secretaria Municipal de Saúde) seja analisado por uma Comissão Mista foi aprovado.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Aprovação do requerimento para apreciação do PL nº 06/2025 por Comissão Mista",
+      "resumo": "Requerimento para que o Projeto de Lei nº 06/2025 (abertura de crédito especial para a Secretaria Municipal de Ação Social e Cidadania) seja analisado por uma Comissão Mista foi aprovado.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    }
+  ]
+}

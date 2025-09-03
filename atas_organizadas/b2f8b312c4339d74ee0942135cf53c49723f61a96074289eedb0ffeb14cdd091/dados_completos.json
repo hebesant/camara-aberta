@@ -1,0 +1,119 @@
+{
+  "metadata_ata": {
+    "ata_id": "b2f8b312c4339d74ee0942135cf53c49723f61a96074289eedb0ffeb14cdd091",
+    "titulo_sessao": "ATA DA 112 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 15 DE ABRIL DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-04-15",
+    "numero_sessao": 112,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Pedido de urgência para o PR nº 01/2025 e apreciação por Comissão Mista",
+      "resumo": "Votação sobre a tramitação em regime de urgência do Projeto de Resolução nº 01/2025 e sua análise por uma comissão mista.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Requerimento de Comissão Mista para o PR nº 01/2025",
+      "resumo": "Votação sobre a formação de uma comissão mista para analisar o Projeto de Resolução nº 01/2025.",
+      "resultado": "Aprovado por unanimidade de votos em cada comissão (Constituição, Justiça e Redação; e Finanças, Orçamento e Planejamento)",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Redação Final do Projeto de Lei nº 11/2025",
+      "resumo": "Aprovação da redação final do Projeto de Lei nº 11/2025, que autoriza a doação de parte do sistema de lazer do Jardim Celani para o Corpo de Bombeiros.",
+      "resultado": "Aprovado por unanimidade de votos, com a ausência da vereadora Luzia de Fátima Izidório Vidal",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Ausente"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Redação Final do Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação da redação final do Projeto de Lei nº 09/2025, que modifica o plano de carreira da Guarda Civil Municipal.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Pedido de destaque para votação separada dos artigos 1º, 2º e 3º do Projeto de Emenda à Lei Orgânica Lei nº 01/2025",
+      "resumo": "Votação sobre o pedido de votação separada dos artigos de um projeto de emenda à Lei Orgânica.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Artigo 1º do Projeto de Emenda à Lei Orgânica Lei nº 01/2025",
+      "resumo": "Votação do artigo 1º do projeto de emenda à Lei Orgânica.",
+      "resultado": "Rejeitado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Artigo 2º do Projeto de Emenda à Lei Orgânica Lei nº 01/2025",
+      "resumo": "Votação do artigo 2º do projeto de emenda à Lei Orgânica.",
+      "resultado": "Aprovado por maioria de votos",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Não"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Artigo 3º do Projeto de Emenda à Lei Orgânica Lei nº 01/2025",
+      "resumo": "Votação do artigo 3º do projeto de emenda à Lei Orgânica.",
+      "resultado": "Rejeitado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 07/2025",
+      "resumo": "Votação do Projeto de Lei nº 07/2025, que dispõe sobre a implantação de código QR em placas de obras públicas.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    }
+  ]
+}

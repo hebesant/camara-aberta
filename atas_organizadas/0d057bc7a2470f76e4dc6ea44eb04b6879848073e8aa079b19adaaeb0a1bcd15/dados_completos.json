@@ -1,0 +1,78 @@
+{
+  "metadata_ata": {
+    "ata_id": "0d057bc7a2470f76e4dc6ea44eb04b6879848073e8aa079b19adaaeb0a1bcd15",
+    "titulo_sessao": "ATA DA 9ª REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19ª LEGISLATURA, REALIZADA EM 01 DE ABRIL DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-04-01",
+    "numero_sessao": 9,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Requerimento de apreciação do PL nº 28/2025 por Comissão Mista",
+      "resumo": "Aprovação do requerimento para que o Projeto de Lei nº 28/2025 seja analisado por uma Comissão Mista.",
+      "resultado": "Aprovado por unanimidade de votos em todas as comissões (Constituição, Justiça e Redação; Organização, Bens, Serviços etc; e Finanças, Orçamento e Planejamento).",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Emenda Modificativa e Aditva nº 01/2025 ao Projeto de Lei nº 02/2025",
+      "resumo": "Aprovação de emenda ao Projeto de Lei nº 02/2025, que trata do direito da mulher de ter acompanhante em consultas médicas.",
+      "resultado": "Aprovada por unanimidade de votos.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 02/2025 - 'Consulta Segura'",
+      "resumo": "Aprovação do Projeto de Lei nº 02/2025, garantindo o direito da mulher de ter acompanhante em consultas médicas.",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Emenda Modificativa, Supressiva e Aditiva nº 01/2025 ao Projeto de Lei nº 03/2025",
+      "resumo": "Aprovação de emenda ao Projeto de Lei nº 03/2025, sobre o projeto 'Nossa Cidade Mais Limpa'.",
+      "resultado": "Emenda incorporada ao projeto.",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 03/2025 - 'Nossa Cidade Mais Limpa'",
+      "resumo": "Aprovação do Projeto de Lei nº 03/2025, que institui o projeto 'Nossa Cidade Mais Limpa'.",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": []
+    }
+  ]
+}

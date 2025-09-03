@@ -1,0 +1,270 @@
+{
+  "metadata_ata": {
+    "ata_id": "5dc586da7e47412958d94934f2532cbc516a8fe1e17b9d8cd41e8c5098c376d4",
+    "titulo_sessao": "ATA DA 102 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 08 DE ABRIL DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-04-08",
+    "numero_sessao": 102,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Pedido de urgência para o Projeto de Decreto Legislativo nº 04/2025",
+      "resumo": "Aprovação do pedido de urgência para a tramitação do Projeto de Decreto Legislativo nº 04/2025, que institui a Solenidade Comemorativa ao Dia Mundial do Escoteiro.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Requerimento de Comissão Mista para o Projeto de Decreto Legislativo nº 04/2025 (Comissão de Constituição, Justiça e Redação)",
+      "resumo": "Aprovação do requerimento para que o Projeto de Decreto Legislativo nº 04/2025 seja apreciado por Comissão Mista.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Requerimento de Comissão Mista para o Projeto de Decreto Legislativo nº 04/2025 (Comissão de Organização, Bens, Serviços, Saúde, Educação, Cultura, Servidores, Meio Ambiente e Administração)",
+      "resumo": "Aprovação do requerimento para que o Projeto de Decreto Legislativo nº 04/2025 seja apreciado por Comissão Mista.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Redação Final do Projeto de Lei nº 02/2025",
+      "resumo": "Aprovação da redação final do Projeto de Lei nº 02/2025, que trata do direito à \"Consulta Segura\" para mulheres.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Redação Final do Projeto de Lei nº 03/2025",
+      "resumo": "Aprovação da redação final do Projeto de Lei nº 03/2025, que institui o Projeto \"Nossa Cidade Mais Limpa\".",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Subemenda nº 01/2025 ao Projeto de Lei nº 11/2025",
+      "resumo": "Aprovação da subemenda nº 01/2025 ao Projeto de Lei nº 11/2025, que reduz o prazo de construção do Posto de Bombeiros.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Emenda Aditiva nº 01/2025 ao Projeto de Lei nº 11/2025",
+      "resumo": "Aprovação da emenda aditiva nº 01/2025 ao Projeto de Lei nº 11/2025, que garante a utilização da finalidade pretendida e prazo para construção do Posto de Bombeiros.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Projeto de Lei nº 11/2025",
+      "resumo": "Aprovação do Projeto de Lei nº 11/2025, que autoriza a doação de parte do sistema de lazer do Jardim Celani para a construção do Posto do Corpo de Bombeiros.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Emenda Modificativa nº 01/2025 ao Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação da emenda modificativa nº 01/2025 ao Projeto de Lei nº 09/2025.",
+      "resultado": "Aprovado por maioria de votos (6 votos a 4).",
+      "votos": [
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Artigo 2º da Emenda Modificativa e Aditiva nº 02/2025 ao Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação do Artigo 2º da Emenda Modificativa e Aditiva nº 02/2025 ao Projeto de Lei nº 09/2025.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Restante da Emenda Modificativa e Aditiva nº 02/2025 ao Projeto de Lei nº 09/2025",
+      "resumo": "Rejeição do restante da Emenda Modificativa e Aditiva nº 02/2025 ao Projeto de Lei nº 09/2025.",
+      "resultado": "Rejeitado por maioria de votos (6 votos a 5)",
+      "votos": [
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Artigos 2º e 3º do Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação dos artigos 2º e 3º do Projeto de Lei nº 09/2025.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Restante do Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação do restante do Projeto de Lei nº 09/2025.",
+      "resultado": "Aprovado por maioria de votos (7 votos a 4).",
+      "votos": [
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Pedido de destaque para discussão e votação separada das emendas do Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação do pedido de destaque para que as emendas do projeto fossem discutidas e votadas separadamente.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    },
+    {
+      "objeto_da_votacao": "Pedido de destaque para votação separada do artigo 2º da emenda nº 02 do Projeto de Lei nº 09/2025",
+      "resumo": "Aprovação do pedido de destaque para votação separada do artigo 2º da emenda nº 02.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": []
+    }
+  ]
+}

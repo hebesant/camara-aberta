@@ -1,0 +1,101 @@
+{
+  "metadata_ata": {
+    "ata_id": "05d6ae241fc8fff59d49e2ee146d24e372d19da023c9daf7dc25d161edc072d9",
+    "titulo_sessao": "ATA DA 42 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19º LEGISLATURA, REALIZADA EM 25 DE FEVEREIRO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-02-25",
+    "numero_sessao": 42,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Requerimento de apreciação do PL nº 11/2025 por Comissão Mista",
+      "resumo": "Votação sobre o pedido da prefeitura para que o Projeto de Lei nº 11/2025 seja analisado por uma Comissão Mista.",
+      "resultado": "Aprovado na Comissão de Constituição, Justiça e Redação por maioria, com voto contrário da vereadora Graziela Costa Leite; rejeitado na Comissão de Organização, Bens, Serviços, Saúde, Educação, Cultura, Servidores, Meio Ambiente e Administração por unanimidade.",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Não"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Não"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Requerimento nº 61/2025 sobre o comparecimento do Superintendente do SAAE",
+      "resumo": "Requerimento solicitando o comparecimento do Superintendente do SAAE para prestar esclarecimentos sobre a falta d'água em alguns bairros e outros questionamentos.",
+      "resultado": "Aprovado por unanimidade de votos.",
+      "votos": [
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidorio Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

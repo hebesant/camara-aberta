@@ -1,0 +1,113 @@
+{
+  "metadata_ata": {
+    "ata_id": "f6301eea72bbe4d55ab575b58b3497b4b9cade437356f0f5eb3c0df7700f10c6",
+    "titulo_sessao": "ATA DA 12 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 192 LEGISLATURA, REALIZADA EM 04 DE FEVEREIRO DE 2.025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-02-04",
+    "numero_sessao": 12,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Votação de ofício — Vereadora Graziela Costa Leite — Solicitando aprovação para tramitação em regime de urgência.",
+      "resumo": "Aprovação da tramitação em regime de urgência de um ofício da Vereadora Graziela Costa Leite.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Cleiton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antonio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidoro Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Requerimento Nº 04/2025 — Vereador Edemilson Pereira dos Santos — Prefeitura Municipal — Solicitando o comparecimento do Secretário de Governo, Sr. Gilmar Mazetto; da Secretária de Turismo e Comunicação, Sra. lara Bortolucci; e dos representantes do Consórcio Parque Lavras 'CPL”, para prestar esclarecimentos sobre questões relacionadas ao andamento da concessão, execução do projeto que prevê a reativação da usina hidrelétrica e/ou implantação de instalações para produção de energia limpa e obras públicas de revitalização e modernização do Parque e da Usina.",
+      "resumo": "Aprovação de requerimento solicitando o comparecimento de autoridades para prestar esclarecimentos sobre a concessão, projeto de reativação da usina hidrelétrica e obras no Parque Lavras.",
+      "resultado": "Aprovado por unanimidade de votos",
+      "votos": [
+        {
+          "vereador": "Cleiton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antonio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidoro Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        }
+      ]
+    }
+  ]
+}

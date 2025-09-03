@@ -1,0 +1,89 @@
+{
+  "metadata_ata": {
+    "ata_id": "351c80375e80cc678fec0ab7edf748824adc01dffd0acfecf8338e0db43c2952",
+    "titulo_sessao": "ATA DA 252 REUNIÃO ORDINÁRIA, DO 1º ANO, DA 19º LEGISLATURA, REALIZADA EM 22 DE JULHO DE 2025, COM INÍCIO ÀS 14:00 HORAS.",
+    "data_sessao": "2025-07-22",
+    "numero_sessao": 252,
+    "tipo_sessao": "Ordinária"
+  },
+  "votacoes": [
+    {
+      "objeto_da_votacao": "Apreciação do Projeto de Lei nº 54/2025 em Comissão Mista",
+      "resumo": "Votação sobre se o Projeto de Lei nº 54/2025 (Crédito Especial para Ação Social) deveria ser apreciado por Comissão Mista.  A proposta foi rejeitada.",
+      "resultado": "Rejeitado pela Comissão de Constituição, Justiça e Redação (2 votos contrários, 1 ausente). Comissão de Finanças, Orçamento e Planejamento não votou.",
+      "votos": [
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Contrário"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Ausente"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Contrário"
+        }
+      ]
+    },
+    {
+      "objeto_da_votacao": "Aprovação do Projeto de Lei nº 41/2025",
+      "resumo": "Votação sobre o Projeto de Lei nº 41/2025 (Cadastramento de veículos oficiais para isenção de pedágio). O projeto foi aprovado.",
+      "resultado": "Aprovado por unanimidade, com a ausência de um vereador.",
+      "votos": [
+        {
+          "vereador": "Clayton Aparecido dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Almir de Melo Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Antônio Moreira Sobrinho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Arildo Guadagnini",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edemilson Pereira dos Santos",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Graziela Costa Leite",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Henrique Balseiros Chamosa Neto",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Luzia de Fátima Izidório Vidal",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Michel Oliveira Rodrigues da Silva",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Rogério dos Santos Filho",
+          "voto": "Sim"
+        },
+        {
+          "vereador": "Edival Pereira Rosa",
+          "voto": "Ausente"
+        }
+      ]
+    }
+  ]
+}
