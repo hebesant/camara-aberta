@@ -1,0 +1,53 @@
+
+
+
+.featured-politicos-section {
+    width: 100%;
+    max-width: 800px; 
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+.featured-politicos-title {
+    font-size: 1.5rem; 
+    font-weight: 700;  
+    color: #1f2937;     
+    margin-bottom: 1.5rem; 
+    margin-top: 1.5rem; 
+}
+
+
+.politicos-card-container {
+    display: grid; 
+    grid-template-columns: repeat(1, 1fr); 
+    gap: 2rem; 
+}
+
+
+@media (min-width: 768px) {
+    .politicos-card-container {
+        grid-template-columns: repeat(3, 1fr); 
+    }
+}
+
+
+
+.load-more-container {
+    text-align: center;
+    margin-top: 2rem; 
+}
+
+.load-more-button {
+    background-color: #ffffff; 
+    border: 1px solid #2563eb; 
+    color: #2563eb;           
+    font-weight: 500;          
+    padding: 0.5rem 1.5rem;    
+    border-radius: 0.5rem;     
+    cursor: pointer;
+    transition: all 0.3s ease; 
+}
+
+.load-more-button:hover {
+    background-color: #eff6ff; 
+}

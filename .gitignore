@@ -1,0 +1,39 @@
+# dependencies
+/node_modules
+
+# build artifacts
+/build
+/dist
+/out
+.parcel-cache/
+
+# logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# npm/yarn cache
+.npm/
+.yarn/
+
+# other
+coverage/

@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plataforma de Transparência Legislativa com IA</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        .hero-gradient {
+            background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 50%, #3b82f6 100%);
+        }
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+        }
+        .transition-all {
+            transition: all 0.3s ease;
+        }
+        .ai-summary {
+            border-left: 4px solid #3b82f6;
+            background-color: #f8fafc;
+        }
+    </style>
+</head>
+<body class="bg-gray-50 font-sans">
+    <!-- Header/Navigation -->
+    <header class="bg-white shadow-sm">
+        <div class="container mx-auto px-4 py-3 flex justify-between items-center">
+            <div class="flex items-center space-x-2">
+                <i class="fas fa-balance-scale text-blue-600 text-2xl"></i>
+                <h1 class="text-xl font-bold text-gray-800">Transparência Legislativa</h1>
+                <span class="bg-blue-100 text-blue-800 text-xs px-2 py-1 rounded-full ml-2">AI</span>
+            </div>
+            <nav class="hidden md:flex space-x-8">
+                <a href="#" class="text-blue-600 font-medium">Início</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600">Projetos</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600">Vereadores</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600">Sessões</a>
+                <a href="#" class="text-gray-600 hover:text-blue-600">Sobre</a>
+            </nav>
+            <button class="md:hidden text-gray-600">
+                <i class="fas fa-bars text-xl"></i>
+            </button>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero-gradient text-white py-16">
+        <div class="container mx-auto px-4">
+            <div class="max-w-3xl mx-auto text-center">
+                <h1 class="text-4xl md:text-5xl font-bold mb-6">Transparência Legislativa com IA</h1>
+                <p class="text-xl mb-8 opacity-90">Acompanhe projetos de lei, votos de vereadores e o andamento legislativo de forma simples e transparente.</p>
+                <div class="flex flex-col sm:flex-row justify-center gap-4">
+                    <input type="text" placeholder="Buscar projetos, vereadores..." class="px-6 py-3 rounded-lg text-gray-800 flex-grow max-w-md">
+                    <button class="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg hover:bg-gray-100 transition-all">
+                        <i class="fas fa-search mr-2"></i> Buscar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Stats Section -->
+    <section class="bg-white py-8 shadow-sm">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+                <div class="p-4">
+                    <div class="text-3xl font-bold text-blue-600">1,248</div>
+                    <div class="text-gray-600">Projetos de Lei</div>
+                </div>
+                <div class="p-4">
+                    <div class="text-3xl font-bold text-blue-600">45</div>
+                    <div class="text-gray-600">Vereadores</div>
+                </div>
+                <div class="p-4">
+                    <div class="text-3xl font-bold text-blue-600">86%</div>
+                    <div class="text-gray-600">Dados Atualizados</div>
+                </div>
+                <div class="p-4">
+                    <div class="text-3xl font-bold text-blue-600">24h</div>
+                    <div class="text-gray-600">Atualização Diária</div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-12">
+        <div class="flex flex-col lg:flex-row gap-8">
+            <!-- Left Column - Main Content -->
+            <div class="lg:w-2/3">
+                <h2 class="text-2xl font-bold text-gray-800 mb-6">Projetos em Destaque</h2>
+                
+                <!-- Project Card -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden mb-6 card-hover transition-all">
+                    <div class="p-6">
+                        <div class="flex justify-between items-start mb-4">
+                            <div>
+                                <span class="bg-blue-100 text-blue-800 text-xs font-medium px-2.5 py-0.5 rounded">Em discussão</span>
+                                <h3 class="text-xl font-bold text-gray-800 mt-2">PL 1234/2023 - Regulamentação de Aplicativos de Transporte</h3>
+                            </div>
+                            <div class="text-gray-500 text-sm">12/06/2023</div>
+                        </div>
+                        <div class="ai-summary p-4 mb-4 rounded">
+                            <div class="flex items-center mb-2">
+                                <i class="fas fa-robot text-blue-500 mr-2"></i>
+                                <span class="font-medium text-gray-700">Resumo por IA:</span>
+                            </div>
+                            <p class="text-gray-700">Este projeto busca estabelecer normas para operação de aplicativos de transporte na cidade, incluindo requisitos para motoristas, tarifas e seguro obrigatório. A proposta está em fase de discussão na comissão de mobilidade urbana.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded">Mobilidade Urbana</span>
+                            <span class="bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded">Transporte</span>
+                            <span class="bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded">Regulamentação</span>
+                        </div>
+                        <div class="flex justify-between items-center">
+                            <div class="flex items-center">
+                                <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Autor" class="w-8 h-8 rounded-full mr-2">
+                                <span class="text-sm font-medium">Vereador Carlos Silva</span>
+                            </div>
+                            <a href="#" class="text-blue-600 font-medium hover:text-blue-800">Ver detalhes <i class="fas fa-arrow-right ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Project Card -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden mb-6 card-hover transition-all">
+                    <div class="p-6">
+                        <div class="flex justify-between items-start mb-4">
+                            <div>
+                                <span class="bg-green-100 text-green-800 text-xs font-medium px-2.5 py-0.5 rounded">Aprovado</span>
+                                <h3 class="text-xl font-bold text-gray-800 mt-2">PL 987/2023 - Programa de Alimentação Escolar</h3>
+                            </div>
+                            <div class="text-gray-500 text-sm">05/06/2023</div>
+                        </div>
+                        <div class="ai-summary p-4 mb-4 rounded">
+                            <div class="flex items-center mb-2">
+                                <i class="fas fa-robot text-blue-500 mr-2"></i>
+                                <span class="font-medium text-gray-700">Resumo por IA:</span>
+                            </div>
+                            <p class="text-gray-700">Ampliação do programa de alimentação escolar para incluir crianças de 0 a 3 anos em creches municipais. O projeto foi aprovado por 32 votos a 5 e agora aguarda sanção do prefeito. Orçamento previsto: R$ 2,5 milhões/ano.</p>
+                        </div>
+                        <div class="flex flex-wrap gap-2 mb-4">
+                            <span class="bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded">Educação</span>
+                            <span class="bg-gray-100 text-gray-800 text-xs font-medium px-2.5 py-0.5 rounded">Assistência Social</span>
+                        </div>
+                        <div class="flex justify-between items-center">
+                            <div class="flex items-center">
+                                <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Autor" class="w-8 h-8 rounded-full mr-2">
+                                <span class="text-sm font-medium">Vereadora Ana Oliveira</span>
+                            </div>
+                            <a href="#" class="text-blue-600 font-medium hover:text-blue-800">Ver detalhes <i class="fas fa-arrow-right ml-1"></i></a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="text-center mt-8">
+                    <button class="bg-white border border-blue-600 text-blue-600 font-medium px-6 py-2 rounded-lg hover:bg-blue-50 transition-all">
+                        Carregar mais projetos
+                    </button>
+                </div>
+            </div>
+            
+            <!-- Right Column - Sidebar -->
+            <div class="lg:w-1/3">
+                <!-- Upcoming Sessions -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden mb-6">
+                    <div class="bg-blue-600 text-white px-6 py-3">
+                        <h3 class="font-bold"><i class="fas fa-calendar-alt mr-2"></i> Próximas Sessões</h3>
+                    </div>
+                    <div class="p-6">
+                        <div class="mb-4 pb-4 border-b border-gray-100">
+                            <div class="flex justify-between items-center mb-1">
+                                <span class="font-medium">Sessão Ordinária</span>
+                                <span class="text-sm bg-blue-100 text-blue-800 px-2 py-0.5 rounded">15/06</span>
+                            </div>
+                            <p class="text-sm text-gray-600">14:00 - Câmara Municipal</p>
+                        </div>
+                        <div class="mb-4 pb-4 border-b border-gray-100">
+                            <div class="flex justify-between items-center mb-1">
+                                <span class="font-medium">Comissão de Finanças</span>
+                                <span class="text-sm bg-blue-100 text-blue-800 px-2 py-0.5 rounded">16/06</span>
+                            </div>
+                            <p class="text-sm text-gray-600">10:00 - Sala das Comissões</p>
+                        </div>
+                        <div>
+                            <div class="flex justify-between items-center mb-1">
+                                <span class="font-medium">Audiência Pública</span>
+                                <span class="text-sm bg-blue-100 text-blue-800 px-2 py-0.5 rounded">20/06</span>
+                            </div>
+                            <p class="text-sm text-gray-600">19:00 - Plenário Principal</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Councilors Activity -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden mb-6">
+                    <div class="bg-blue-600 text-white px-6 py-3">
+                        <h3 class="font-bold"><i class="fas fa-users mr-2"></i> Vereadores em Ação</h3>
+                    </div>
+                    <div class="p-6">
+                        <div class="flex items-center mb-4">
+                            <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Vereador" class="w-10 h-10 rounded-full mr-3">
+                            <div>
+                                <h4 class="font-medium">Vereador João Santos</h4>
+                                <p class="text-sm text-gray-600">Apresentou 3 projetos esta semana</p>
+                            </div>
+                        </div>
+                        <div class="flex items-center mb-4">
+                            <img src="https://randomuser.me/api/portraits/women/63.jpg" alt="Vereadora" class="w-10 h-10 rounded-full mr-3">
+                            <div>
+                                <h4 class="font-medium">Vereadora Maria Fernandes</h4>
+                                <p class="text-sm text-gray-600">Relatora de 2 projetos na comissão</p>
+                            </div>
+                        </div>
+                        <div class="flex items-center">
+                            <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Vereador" class="w-10 h-10 rounded-full mr-3">
+                            <div>
+                                <h4 class="font-medium">Vereador Carlos Silva</h4>
+                                <p class="text-sm text-gray-600">Participou de 5 votações</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Quick Stats -->
+                <div class="bg-white rounded-xl shadow-md overflow-hidden">
+                    <div class="bg-blue-600 text-white px-6 py-3">
+                        <h3 class="font-bold"><i class="fas fa-chart-bar mr-2"></i> Estatísticas Rápidas</h3>
+                    </div>
+                    <div class="p-6">
+                        <div class="mb-3">
+                            <div class="flex justify-between text-sm mb-1">
+                                <span>Aprovados este ano</span>
+                                <span>42%</span>
+                            </div>
+                            <div class="w-full bg-gray-200 rounded-full h-2">
+                                <div class="bg-green-500 h-2 rounded-full" style="width: 42%"></div>
+                            </div>
+                        </div>
+                        <div class="mb-3">
+                            <div class="flex justify-between text-sm mb-1">
+                                <span>Em discussão</span>
+                                <span>35%</span>
+                            </div>
+                            <div class="w-full bg-gray-200 rounded-full h-2">
+                                <div class="bg-yellow-500 h-2 rounded-full" style="width: 35%"></div>
+                            </div>
+                        </div>
+                        <div>
+                            <div class="flex justify-between text-sm mb-1">
+                                <span>Arquivados</span>
+                                <span>23%</span>
+                            </div>
+                            <div class="w-full bg-gray-200 rounded-full h-2">
+                                <div class="bg-red-500 h-2 rounded-full" style="width: 23%"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Features Section -->
+    <section class="bg-gray-50 py-16">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Como nossa plataforma ajuda você</h2>
+            <div class="grid md:grid-cols-3 gap-8">
+                <div class="bg-white p-6 rounded-xl shadow-md text-center card-hover transition-all">
+                    <div class="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-search text-blue-600 text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Busca Inteligente</h3>
+                    <p class="text-gray-600">Encontre projetos de lei, vereadores e votações com nossa busca avançada e filtros inteligentes.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md text-center card-hover transition-all">
+                    <div class="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-robot text-blue-600 text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Resumos por IA</h3>
+                    <p class="text-gray-600">Nossa inteligência artificial gera resumos claros de projetos complexos para fácil compreensão.</p>
+                </div>
+                <div class="bg-white p-6 rounded-xl shadow-md text-center card-hover transition-all">
+                    <div class="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-bell text-blue-600 text-2xl"></i>
+                    </div>
+                    <h3 class="text-xl font-bold mb-3">Acompanhamento</h3>
+                    <p class="text-gray-600">Receba alertas sobre projetos do seu interesse e acompanhe o trabalho dos vereadores.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section class="py-16 bg-white">
+        <div class="container mx-auto px-4">
+            <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Nossa Equipe</h2>
+            <div class="grid md:grid-cols-5 gap-6">
+                <div class="text-center">
+                    <div class="bg-blue-100 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-user-tie text-blue-600 text-3xl"></i>
+                    </div>
+                    <h3 class="font-bold">Heberty</h3>
+                    <p class="text-sm text-gray-600">Gerente de Projeto</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-laptop-code text-blue-600 text-3xl"></i>
+                    </div>
+                    <h3 class="font-bold">Roberto</h3>
+                    <p class="text-sm text-gray-600">Analista de Sistemas</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-paint-brush text-blue-600 text-3xl"></i>
+                    </div>
+                    <h3 class="font-bold">Tiago</h3>
+                    <p class="text-sm text-gray-600">Front-End</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-server text-blue-600 text-3xl"></i>
+                    </div>
+                    <h3 class="font-bold">Gabriel</h3>
+                    <p class="text-sm text-gray-600">Back-End</p>
+                </div>
+                <div class="text-center">
+                    <div class="bg-blue-100 w-24 h-24 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-bug text-blue-600 text-3xl"></i>
+                    </div>
+                    <h3 class="font-bold">Gustavo</h3>
+                    <p class="text-sm text-gray-600">Testador/Qualidade</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Newsletter -->
+    <section class="bg-blue-600 text-white py-12">
+        <div class="container mx-auto px-4 max-w-4xl text-center">
+            <h2 class="text-2xl font-bold mb-4">Fique por dentro das novidades</h2>
+            <p class="mb-6 opacity-90">Assine nossa newsletter para receber atualizações sobre projetos importantes e atividades legislativas.</p>
+            <div class="flex flex-col sm:flex-row justify-center gap-3">
+                <input type="email" placeholder="Seu e-mail" class="px-6 py-3 rounded-lg text-gray-800 flex-grow max-w-md">
+                <button class="bg-white text-blue-600 font-semibold px-6 py-3 rounded-lg hover:bg-gray-100 transition-all">
+                    Assinar <i class="fas fa-paper-plane ml-2"></i>
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid md:grid-cols-4 gap-8">
+                <div>
+                    <div class="flex items-center space-x-2 mb-4">
+                        <i class="fas fa-balance-scale text-blue-400 text-2xl"></i>
+                        <h3 class="text-xl font-bold">Transparência Legislativa</h3>
+                    </div>
+                    <p class="text-gray-400">Plataforma de acompanhamento legislativo com inteligência artificial para maior transparência e participação cidadã.</p>
+                </div>
+                <div>
+                    <h4 class="text-lg font-bold mb-4">Links Úteis</h4>
+                    <ul class="space-y-2">
+                        <li><a href="#" class="text-gray-400 hover:text-white">Projetos de Lei</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white">Vereadores</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white">Calendário Legislativo</a></li>
+                        <li><a href="#" class="text-gray-400 hover:text-white">Glossário</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-bold mb-4">Contato</h4>
+                    <ul class="space-y-2 text-gray-400">
+                        <li class="flex items-center"><i class="fas fa-envelope mr-2"></i> contato@transparencialegislativa.org</li>
+                        <li class="flex items-center"><i class="fas fa-phone mr-2"></i> (11) 1234-5678</li>
+                        <li class="flex items-center"><i class="fas fa-map-marker-alt mr-2"></i> São Paulo, SP</li>
+                    </ul>
+                </div>
+                <div>
+                    <h4 class="text-lg font-bold mb-4">Redes Sociais</h4>
+                    <div class="flex space-x-4">
+                        <a href="#" class="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-blue-600">
+                            <i class="fab fa-twitter"></i>
+                        </a>
+                        <a href="#" class="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-blue-600">
+                            <i class="fab fa-facebook-f"></i>
+                        </a>
+                        <a href="#" class="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-blue-600">
+                            <i class="fab fa-instagram"></i>
+                        </a>
+                        <a href="#" class="w-10 h-10 rounded-full bg-gray-700 flex items-center justify-center hover:bg-blue-600">
+                            <i class="fab fa-linkedin-in"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
+                <p>© 2023 Plataforma de Transparência Legislativa com IA. Todos os direitos reservados.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Simple script for demonstration purposes
+        document.addEventListener('DOMContentLoaded', function() {
+            // Mobile menu toggle would go here
+            console.log('Plataforma de Transparência Legislativa carregada');
+            
+            // In a real implementation, this would fetch data from an API
+            // and update the UI dynamically
+        });
+    </script>
+</body>
+</html>
