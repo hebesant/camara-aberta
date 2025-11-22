@@ -14,7 +14,7 @@
 * **📊 Perfil dos Parlamentares:** Página dedicada a cada vereador, contendo informações sobre partido, legislatura, histórico e bens declarados.
 * **🗳️ Detalhamento de Votações:** Visualização clara do posicionamento de cada parlamentar (favorável, contrário, abstenção ou ausência) em cada projeto votado.
 * **📄 Acesso a Documentos:** Disponibilização de arquivos PDF originais das leis e atas para consulta na íntegra.
-* **📈 Painel de Estatísticas:** Dados quantitativos sobre o volume de projetos aprovados, em tramitação e vetados na legislatura atual.
+* **📈 Tramitação do projeto:** Toda a tramitação do projeto dentro da câmara e seu caminha até votação final.
 
 ## 🛠️ Tecnologias Utilizadas
 
