@@ -1,69 +1,44 @@
-# React + TypeScript + Vite
+# 🏛️ Câmara Aberta - Transparência Legislativa Municipal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)](https://supabase.com/)
 
-Currently, two official plugins are available:
+**Câmara Aberta** é uma plataforma de acompanhamento legislativo municipal dedicada a promover maior transparência e participação cidadã. O sistema centraliza atas, projetos de lei e votações, oferecendo uma interface amigável para que a população possa fiscalizar o trabalho dos vereadores e o andamento das proposições na cidade.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Funcionalidades Principais
 
-## Expanding the ESLint configuration
+* **🔍 Busca de Proposições:** Ferramenta de pesquisa para encontrar projetos de lei e documentos legislativos de forma rápida e eficiente.
+* **📊 Perfil dos Parlamentares:** Página dedicada a cada vereador, contendo informações sobre partido, legislatura, histórico e bens declarados.
+* **🗳️ Detalhamento de Votações:** Visualização clara do posicionamento de cada parlamentar (favorável, contrário, abstenção ou ausência) em cada projeto votado.
+* **📄 Acesso a Documentos:** Disponibilização de arquivos PDF originais das leis e atas para consulta na íntegra.
+* **📈 Painel de Estatísticas:** Dados quantitativos sobre o volume de projetos aprovados, em tramitação e vetados na legislatura atual.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🛠️ Tecnologias Utilizadas
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### Front-end
+* **React 19** & **Vite**: Para uma aplicação web de alta performance e carregamento rápido.
+* **TypeScript**: Garante segurança de tipos e facilita a manutenção do código.
+* **Tailwind CSS**: Framework de estilos para um design moderno e responsivo.
+* **React Router DOM**: Navegação fluida entre as páginas de projetos e políticos.
+* **Fuse.js**: Biblioteca leve para busca de texto no front-end.
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+### Back-end & Dados
+* **Supabase**: Utilizado como Backend-as-a-Service (BaaS) para banco de dados (PostgreSQL), autenticação e armazenamento de arquivos.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+## 📂 Estrutura do Projeto
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+```text
+camara-aberta/
+├── public/              # Arquivos estáticos públicos
+├── src/
+│   ├── assets/          # Ícones e imagens
+│   ├── components/      # Componentes de UI (Cards, Header, Footer)
+│   ├── pages/           # Páginas da aplicação (Home, Políticos, Projetos)
+│   ├── services/        # Integração com APIs e Supabase
+│   ├── App.tsx          # Configuração principal e Rotas
+│   └── main.tsx         # Ponto de entrada da aplicação React
+├── .env                 # Configuração de ambiente (local)
+└── package.json         # Gerenciamento de dependências
